@@ -3,7 +3,7 @@
 
 My name is Clécio and I’m Frontend Engineer.
 
-* 🔭 I’m currently working on Escale Digital
+* 🔭 I’m currently working on [Escale Digital](http://escale.com.br)
 
 * 👨🏽‍💻 I'm currently reading Clean Code and Data Structures and Algorithms by Loiane
 
